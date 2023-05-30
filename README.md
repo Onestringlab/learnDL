@@ -1,4 +1,4 @@
-# This is links to learn DL on Youtube
+# There are links for learn DL on Youtube
 
 ## Patrick Loeber
 PyTorch Tutorials - Complete Beginner Course
