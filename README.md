@@ -1,6 +1,7 @@
 # This is links to learn DL on Youtube
 
 ## Patrick Loeber
+PyTorch Tutorials - Complete Beginner Course
 https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
 
 ## JCOp Untuk Indonesia
