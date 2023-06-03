@@ -22,5 +22,5 @@ https://github.com/binbinjiang/SL_Papers#text-gloss-translation
 https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
 
 ## git hub CSLR
-https://github.com/ycmin95/VAC_CSLR
-https://github.com/binbinjiang/CVT-SLR
+- https://github.com/ycmin95/VAC_CSLR
+- https://github.com/binbinjiang/CVT-SLR
