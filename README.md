@@ -24,3 +24,6 @@ https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
 ## git hub CSLR
 - https://github.com/ycmin95/VAC_CSLR
 - https://github.com/binbinjiang/CVT-SLR
+
+## Carnegie Mellon University Deep Learning
+https://www.youtube.com/playlist?list=PLp-0K3kfddPyH44FP0dl0CbYprvTcfgOI
