@@ -31,3 +31,6 @@ https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
 
 ## Spiky Problem
 - https://github.com/hzli-ucas/caffe/tree/ctc
+
+## Udemy
+https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14844176?start=0#overview
