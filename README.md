@@ -28,3 +28,6 @@ https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
 ## Carnegie Mellon University Deep Learning
 - https://www.youtube.com/playlist?list=PLp-0K3kfddPyH44FP0dl0CbYprvTcfgOI
 - https://github.com/cmudeeplearning11785/Fall2018-tutorials.git
+
+## Spiky Problem
+- https://github.com/hzli-ucas/caffe/tree/ctc
