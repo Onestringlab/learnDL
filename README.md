@@ -37,3 +37,5 @@ https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn
 
 ## CTC
 https://distill.pub/2017/ctc/
+https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f
+https://www.youtube.com/watch?v=RLWuzLLSIgw
