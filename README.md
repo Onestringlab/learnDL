@@ -13,13 +13,13 @@ https://www.youtube.com/playlist?list=PLGn1wRmlR3Mtz5i4k4qyd5qQjOtm9JSC6
 
 ## Anak AI
 Belajar AI lebih detail
-https://www.youtube.com/playlist?list=PLLm0Ro1RXWC7tZoYWG30wTHIrV3mnJVHH
+- https://www.youtube.com/playlist?list=PLLm0Ro1RXWC7tZoYWG30wTHIrV3mnJVHH
 
 ## SL Paper
-https://github.com/binbinjiang/SL_Papers#text-gloss-translation
+- https://github.com/binbinjiang/SL_Papers#text-gloss-translation
 
 ## RWTH
-https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
+- https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
 
 ## git hub CSLR
 - https://github.com/ycmin95/VAC_CSLR
@@ -33,7 +33,7 @@ https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
 - https://github.com/hzli-ucas/caffe/tree/ctc
 
 ## Udemy
-https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14844176?start=0#overview
+- https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14844176?start=0#overview
 
 ## CTC
 https://distill.pub/2017/ctc/
