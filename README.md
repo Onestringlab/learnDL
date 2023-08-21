@@ -46,4 +46,4 @@ Belajar AI lebih detail
 - https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f
 
 ## Deep Learning
-- Jeff Heaton | https://github.com/jeffheaton/app_deep_learning/tree/main
+- Jeff Heaton | https://github.com/jeffheaton/app_deep_learning/tree/main | https://www.youtube.com/playlist?list=PLjy4p-07OYzuy_lHcRW8lPTLPTTOmUpmi
