@@ -15,6 +15,14 @@ Transisi ke Deep Learning - Belajar Machine Learning
 Belajar AI lebih detail
 - https://www.youtube.com/playlist?list=PLLm0Ro1RXWC7tZoYWG30wTHIrV3mnJVHH
 
+## CTC
+- https://www.youtube.com/watch?v=RLWuzLLSIgw
+- https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
+
+
+
+# GitHub
+
 ## SL Paper
 - https://github.com/binbinjiang/SL_Papers#text-gloss-translation
 
@@ -38,5 +46,6 @@ Belajar AI lebih detail
 ## CTC
 - https://distill.pub/2017/ctc/
 - https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f
-- https://www.youtube.com/watch?v=RLWuzLLSIgw
-- https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
+
+## Deep Learning
+- https://github.com/jeffheaton/app_deep_learning/tree/main
