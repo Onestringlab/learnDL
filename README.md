@@ -34,3 +34,6 @@ https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
 
 ## Udemy
 https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14844176?start=0#overview
+
+## CTC
+https://distill.pub/2017/ctc/
