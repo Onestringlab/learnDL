@@ -39,3 +39,4 @@ https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn
 https://distill.pub/2017/ctc/
 https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f
 https://www.youtube.com/watch?v=RLWuzLLSIgw
+https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
