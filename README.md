@@ -2,14 +2,14 @@
 
 ## Patrick Loeber
 PyTorch Tutorials - Complete Beginner Course
-https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
+- https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
 
 Machine Learning from Scratch - Python Tutorials
-https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
+- https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
 
 ## JCOp Untuk Indonesia
 Transisi ke Deep Learning - Belajar Machine Learning
-https://www.youtube.com/playlist?list=PLGn1wRmlR3Mtz5i4k4qyd5qQjOtm9JSC6
+- https://www.youtube.com/playlist?list=PLGn1wRmlR3Mtz5i4k4qyd5qQjOtm9JSC6
 
 ## Anak AI
 Belajar AI lebih detail
@@ -36,7 +36,7 @@ Belajar AI lebih detail
 - https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14844176?start=0#overview
 
 ## CTC
-https://distill.pub/2017/ctc/
-https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f
-https://www.youtube.com/watch?v=RLWuzLLSIgw
-https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
+- https://distill.pub/2017/ctc/
+- https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f
+- https://www.youtube.com/watch?v=RLWuzLLSIgw
+- https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
