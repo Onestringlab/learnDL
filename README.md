@@ -19,8 +19,6 @@ Belajar AI lebih detail
 - https://www.youtube.com/watch?v=RLWuzLLSIgw
 - https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
 
-
-
 # GitHub
 
 ## SL Paper
