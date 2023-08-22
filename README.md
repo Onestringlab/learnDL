@@ -35,15 +35,12 @@ Belajar AI lebih detail
 - https://www.youtube.com/playlist?list=PLp-0K3kfddPyH44FP0dl0CbYprvTcfgOI
 - https://github.com/cmudeeplearning11785/Fall2018-tutorials.git
 
-## Spiky Problem
+## CTC Spiky Problem
 - https://github.com/hzli-ucas/caffe/tree/ctc
+- https://distill.pub/2017/ctc/
 
 ## Udemy
 - https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14844176?start=0#overview
-
-## CTC
-- https://distill.pub/2017/ctc/
-- https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f
 
 ## Deep Learning
 - Jeff Heaton | https://github.com/jeffheaton/app_deep_learning/tree/main | https://www.youtube.com/playlist?list=PLjy4p-07OYzuy_lHcRW8lPTLPTTOmUpmi
