@@ -44,3 +44,7 @@ Belajar AI lebih detail
 
 ## Deep Learning
 - Jeff Heaton | https://github.com/jeffheaton/app_deep_learning/tree/main | https://www.youtube.com/playlist?list=PLjy4p-07OYzuy_lHcRW8lPTLPTTOmUpmi
+
+# Conda
+- conda remove -n ENV_NAME --all
+- conda create -n "myenv" python=3.3.0
