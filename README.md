@@ -55,3 +55,6 @@ Belajar AI lebih detail
 - wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
 - bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
 - rm -rf ~/miniconda3/miniconda.sh
+- docker exec -it 52b513163c352cea58e9d47586881434d08961f78edc21a95b4b10b383b73636 bash
+- ~/miniconda3/bin/conda init bash
+- ~/miniconda3/bin/conda init zsh
