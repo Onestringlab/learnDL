@@ -74,4 +74,4 @@ Belajar AI lebih detail
 - sudo cp /var/cuda-repo-wsl-ubuntu-11-8-local/cuda-*-keyring.gpg /usr/share/keyrings/
 - sudo apt-get update
 - sudo apt-get -y install cuda
-
+- nvidia-smi
