@@ -58,3 +58,9 @@ Belajar AI lebih detail
 - docker exec -it 52b513163c352cea58e9d47586881434d08961f78edc21a95b4b10b383b73636 bash
 - ~/miniconda3/bin/conda init bash
 - ~/miniconda3/bin/conda init zsh
+
+#Pythorch
+- pip3 install torch torchvision torchaudio
+- pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+- pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
