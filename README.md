@@ -38,6 +38,7 @@ Belajar AI lebih detail
 ## CTC Spiky Problem
 - https://github.com/hzli-ucas/caffe/tree/ctc
 - https://distill.pub/2017/ctc/
+- https://caffe.berkeleyvision.org/installation.html
 
 ## Udemy
 - https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/learn/lecture/14844176?start=0#overview
