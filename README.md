@@ -66,6 +66,10 @@ Belajar AI lebih detail
 - pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 - import torch
 - torch.cuda.is_available()
+- !pip install matplotlib
+- !pip install pandas
+- !pip install tqdm
+- !pip install opencv-python
 
 # CUDA Install
 - https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Linux
