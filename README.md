@@ -19,6 +19,9 @@ Belajar AI lebih detail
 - https://www.youtube.com/watch?v=RLWuzLLSIgw
 - https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
 
+## Serrano.Academy
+- https://www.youtube.com/watch?v=BR9h47Jtqyw&list=RDCMUCgBncpylJ1kiVaPyP-PZauQ&start_radio=1&rv=BR9h47Jtqyw&t=11
+
 # GitHub
 
 ## SL Paper
