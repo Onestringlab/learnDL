@@ -71,6 +71,8 @@ Belajar AI lebih detail
 - !pip install pandas
 - !pip install tqdm
 - !pip install opencv-python
+- !pip install PyYAML
+- !pip install scipy
 
 # CUDA Install
 - https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Linux
