@@ -22,6 +22,9 @@ Belajar AI lebih detail
 ## Serrano.Academy
 - https://www.youtube.com/watch?v=BR9h47Jtqyw&list=RDCMUCgBncpylJ1kiVaPyP-PZauQ&start_radio=1&rv=BR9h47Jtqyw&t=11
 
+## RAIL
+- https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A
+
 # GitHub
 
 ## SL Paper
